@@ -106,5 +106,6 @@ public class BaseTest {
 	{
 		report.flush();
 		driver.quit();
+		System.out.println("hello");
 	}
 }
