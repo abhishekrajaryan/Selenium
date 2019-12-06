@@ -48,7 +48,13 @@ public class Scroll {
      Actions act=new Actions(driver);
      act.dragAndDrop(From, To);
      
-        
+               
+			   
+			   
+			   
+			   
+			   
+			   
         driver.close();
 	}
 
